@@ -36,6 +36,7 @@ The administrator module includes:
 	Change password: This module helps the amin to update his or her password
 
 How to run the project? 
+once downloaded. Follow the steps:
 Steps: 1.After getting access of file, copy it into your c drive.
 2. Go to the file, open command prompt. 
 3. Type "python manage.py runserver".
