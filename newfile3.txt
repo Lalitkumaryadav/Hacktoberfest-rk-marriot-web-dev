@@ -1,0 +1,5 @@
+Website on “Online Crime File Management”
+This website provides facility for reporting online crimes, Complaints, missing persons, show most wanted person. Any Number of clients can connect to the server. Each user first makes their login to sever to show their availability.
+Visitors
+Registered Users
+Administrator
