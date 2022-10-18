@@ -1,0 +1,105 @@
+What is Python?
+
+Python is a popular programming language. It was created in 1991 by Guido van Rossum.
+It is used for:
+•	web development (server-side), 
+•	software development, 
+•	mathematics,
+•	system scripting.
+
+What can Python do?
+•	Python can be used on a server to create web applications.
+•	Python can be used along side software to create workflows.
+•	Python can connect to database systems. It can also read and modify files.
+•	Python can be used to handle big data and perform complex mathematics.
+•	Python can be used for rapid prototyping, or for production-ready software development.
+
+Why Python?
+•	Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+•	Python has a simple syntax similar to the English language.
+•	Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+•	Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+•	Python can be treated in a procedural way, an object-orientated way or a functional way.
+
+Python Features:
+Python provides lots of features that are listed below:
+1) Easy to Learn and Use:
+Python is easy to learn and use. It is developer-friendly and high level programming language.
+2) Expressive Language:
+Python language is more expressive means that it is more understandable and readable.
+3) Interpreted Language:
+Python is an interpreted language i.e. interpreter executes the code line by line at a time. This makes debugging easy and thus suitable for beginners.
+4) Cross-platform Language:
+Python can run equally on different platforms such as Windows, Linux, Unix and Macintosh etc. So, we can say that Python is a portable language.
+5) Free and Open Source:
+Python language is freely available at offical web address. The source-code is also available. Therefore it is open source.
+6) Object-Oriented Language:
+Python supports object oriented language and concepts of classes and objects come into existence.
+7) Extensible:
+It implies that other languages such as C/C++ can be used to compile the code and thus it can be used further in our python code.
+8) Large Standard Library:
+Python has a large and broad library and provides rich set of module and functions for rapid application development. 
+9) GUI Programming Support:
+Graphical user interfaces can be developed using Python.
+10) Integrated:
+It can be easily integrated with languages like C, C++, JAVA etc.
+
+
+HARDWARE AND SOFTWARE TO BE USED
+The success of any running project primarily depends upon Hardware and Software in its compilation. The hardware used in the machine should be such that it supports the software that is to be mounted for assembling the project. This project deals with the hardware and software which is available reading and easy on each and every machine given to the user.
+
+1. Operating System: - Windows 7
+2. Framework 3.5
+3.Python 3.6
+
+
+Scope of the Website
+In future we can use Image recognization instead of using hetrogenious database more over High speed, accuracy and non-redundant data are the main advantages of the proposed system. In the proposed system the user is provided with a choice of data screen, which are similar in formats to the source documents. Data entry errors can be minimized through validity checks. After the verification only the data are placed the permanent  database.The software can be developed further to include a lot of modules because the proposed system is developed on the view of future, for example we should develop the system as a database independent using JDBC so we can connect it to any other database, Now the proposed system is based on PC and intranet but in the future if we need to convert it intointernet then we need to change the front end only because we are developing this on the basis of OOP technology and most of the business logic’s are bounded in the class files and module like reusable components.
+PROJECT DESCRIPTION
+The project titled as “Online Crime File Management“is a web based application. This software provides facility for reporting online crimes, complaints, missing persons, showmostwanted person. Any Number of clients can connect to the server. Each user first makes their login to sever to show their availability. The server can be any Web Server.
+The main modules in this project are:
+Modules
+	Visitors
+	Registered Users
+	Administrator
+The visitor module includes:
+	View Hotnews: This module help the visitor to see the latest hotnews which can updated by the admin.
+The registered user module includes:
+	Add Complaint: This module help the user to report online complaints.
+	Add Crime report: This module help the user to report online crimes.
+	Add Missing person: This module help the user to report online missing persons details also we have to add photos of missing person using hetrogenious database.
+	View Missing persons: This module help the user to view all the missing person details.
+	View Mostwanted persons: This module help the user to view all mostwanted persons which can be given by the administrator.
+	Edit Complaint: This module help the user to edit his complaint details.
+	Edit Account: This module help the user to update his or her profile.
+	View complaint status: This module allows us to view the status of all complaint that you have posted earlier.
+	View crime status: This module allows us to view the status of the all crimes that you have posted earlier.    
+	Add and View feedback: This module helps the user to add and view feedbacks 
+The administrator module includes:
+	View and reply user complaint: This module helps the admin to view and reply user’s complaint details
+	View and reply user crimes: This module helps the admin to view and reply user’s crimes details
+	New admin: This module used for add new admin
+	Add and delete latest hotnews: This module helps the admin to add and delete latest hotnews.
+	View and delete user’s feedback: This module helps the amin to add and delete user’s feedback
+	Add, delete and view mostwanted persons: This module helps the amin to add, delete and view mostwanted person details
+	Add, delete and view missing persons: This module helps the amin to add, delete and view missing person details
+	Add and view Criminal registeration: This module helps the amin to add and view criminal registrations
+	Add and view FIR: This module helps the amin to add and view Fir reports
+	Add and view history sheet: This module helps the amin to add and view history reports
+	View and delete all complaint reply: This module helps the amin to view and delete complaint reply.
+	Add and view prisoner report: This module helps the amin to add and prisoner reports
+	Change password: This module helps the amin to update his or her password
+
+
+
+
+
+
+
+
+
+REQUIRMENT ANALASIS
+Hardware Requirements
+Number	Description
+1	Intel core  ,WIN xp/7/vista
+2	320 MB RAM
